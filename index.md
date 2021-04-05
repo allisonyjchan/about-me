@@ -1,5 +1,5 @@
 # Hello!
-![self-portrait](portrait.png)
+![self-portrait](portrait.png =250x250)
 ```
 // Hellos in the languages that I know, 
 // in the order that I learned them.
@@ -20,26 +20,26 @@ I'm currently a **second year Computer Science major at UCSD**, also looking to 
 - growing as a person and as a software engineer
 
 A quote I like and want to share is...
-> Things do not change; we change
+> Things do not change; we change.
 
 Henry David Thoreau
 
 
-#### I have experience with ...
+## I have experience with ...
 Being a **CSE Tutor** where I developed my skills in...
 - [X] working with other people's code and quickly identifying bugs
 - [X] communicating concepts clearly to students
 - [X] being an intermediary between students and the rest of the teaching staff 
 
-#### Some of the things I want to do are... 
+## Some of the things I want to do are... 
 1. Find new music
 2. Take walks
 3. Eat good food
 4. Draw things
 5. Look at flowers
 
-#### I'm currently involved in ...
-![picture of oSTEM logo](oSTEM_Horizontal-Full Color_Black.png)
+## I'm currently involved in ...
+![picture of oSTEM logo](oSTEM_Horizontal-FullColor_Black.png)
 
 [oSTEM @ UCSD Website](https://ostem.ucsd.edu/index)
 
