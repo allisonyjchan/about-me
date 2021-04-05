@@ -1,5 +1,5 @@
 # Hello!
-![self-portrait](portrait.png =250x250)
+![self-portrait](portrait.png)
 ```
 // Hellos in the languages that I know, 
 // in the order that I learned them.
